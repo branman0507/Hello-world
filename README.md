@@ -1,4 +1,5 @@
 # Hello-world
-first repo. hello world
 
-First time using GitHub.  Test the commit feature.
+
+First time using GitHub. deleted the texted that was here.
+added new text
